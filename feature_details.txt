@@ -1,1 +1,2 @@
 This file contains details about the new feature we plan to implement
+For example: AI & Predictive Analytics and Data collection and processing enhancement
